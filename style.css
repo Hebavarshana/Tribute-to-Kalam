@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://pixelcrazylady.files.wordpress.com/2012/01/darkrain1700x956.jpg");color: rgb(238, 241, 244);
+  }
+              h1 {text-align: center;}
+              
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;width: 300px;}
+  
+  figcaption{text-align: center;font-size: larger;font-style: oblique;}
+  p{font-size: medium;font-style: italic;text-align: center;}
+  a:link {
+    color: rgb(168, 232, 168);
+    background-color: transparent;
+    text-decoration: none;}
+    a:visited {
+    color: rgb(157, 141, 245);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(128, 180, 249);
+    background-color: transparent;
+    text-decoration: underline;}
+  
